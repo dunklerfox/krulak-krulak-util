@@ -1,10 +1,10 @@
 # krulak-util
 
-A Clojure library designed to ... well, that part is up to you.
+Krulak util library.
 
 ## Usage
 
-FIXME
+[![Clojars Project](http://clojars.org/krulak/krulak-util/latest-version.svg)]
 
 ## License
 
