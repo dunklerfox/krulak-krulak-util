@@ -4,7 +4,7 @@ Krulak util library.
 
 ## Usage
 
-[![Clojars Project](http://clojars.org/krulak/krulak-util/latest-version.svg)]
+![Clojars Project](http://clojars.org/krulak/krulak-util/latest-version.svg)
 
 ## License
 
